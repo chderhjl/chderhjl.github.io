@@ -1,6 +1,6 @@
 
 
-[![chderhjl](https://img.shields.io/badge/chderhjl-github-blue?logo=github)](https://github.com/chderhjl/chderhjl.github.io)
+[![chderhjl](https://img.shields.io/badge/chderhjl-github-blue?logo=github)](https://github.com/chderhjl)
 
 I am currently pursuing a PhD in Transportation Engineering at the School of Future Transportation, Chang’an University.
 
