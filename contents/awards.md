@@ -1,9 +1,7 @@
-- First-prize Academic Scholarship, 2023.
+- University-level project approval for undergraduate innovation and entrepreneurship projects, 2024.
 
-- Freshman Academic Scholarship, 2022.
+- National-level university student innovation and entrepreneurship project, 2023.
 
-- Excellent Graduation Project of Jiangsu Province, 2022.
+- Third Prize in Northwest China University Student Computer Design Competition, 2023.
 
-- First-prize Enterprise Scholarship, 2021.
-
-- First-prize Academic Scholarship, 2019.
+- First Prize in the 6th Chang'an University Undergraduate Biology Competition, 2023.

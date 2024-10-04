@@ -1,16 +1,16 @@
 
 
-[![senli1073](https://img.shields.io/badge/senli1073-github-blue?logo=github)](https://github.com/senli1073)
+[![chderhjl](https://img.shields.io/badge/chderhjl-github-blue?logo=github)](https://github.com/chderhjl/chderhjl.github.io)
 
-He is currently pursuing a Master's Degree in Computer Science, at School of Computer Science and Technology, China University of Mining and Technology, China.
+I am currently pursuing a PhD in Transportation Engineering at the School of Future Transportation, Chang’an University.
 
 #### Email
 JialeiHe@chd.edu.cn
 
 #### Education
-M.E., Computer Science and Technology, China University of Mining and Technology, 2022—2025 (expected).\
-B.E., Data Science and Big Data Technology, China University of Mining and Technology, 2018—2022.
+B.E., Road, bridge and river crossing engineering (bridge engineering), Chang'an University, 2021-2025\
+B.E., artificial intelligence, Chang'an University, 2021-2025.
 
 #### Research Interests
-Deep Learning, Artificial Intelligence Seismology, Mine Microseismic.
+Temperature fatigue of steel bridge, Deep Learning.
 
