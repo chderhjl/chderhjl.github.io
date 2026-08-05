@@ -1,69 +1,29 @@
+# Jialei He's Homepage
 
+Personal academic homepage of Jialei He (何佳磊), PhD candidate in Transportation Engineering at the School of Future Transportation, Chang'an University.
 
-![Github Forks](https://img.shields.io/github/forks/senli1073/senli1073.github.io?style=flat)
-![Github Stars](https://img.shields.io/github/stars/senli1073/senli1073.github.io?style=flat)
-![License](https://img.shields.io/github/license/senli1073/senli1073.github.io)
-![Last Commit](https://img.shields.io/github/last-commit/senli1073/senli1073.github.io)
+Live at: <https://chderhjl.github.io/>
 
-# A simple Github Pages template for academic personal website.
+## Structure
 
-## Preview
-[![Screenshot of the Website](https://github.com/chderhjl/chderhjl.github.io/blob/main/screenshot_full.png)](https://chderhjl.github.io/)
-
-
-## Introduction
-
-This is an academic personal website template based on [bootstrap](https://github.com/StartBootstrap/startbootstrap-new-age).
-
-The template is designed to integrate Markdown files as content input.  There's no need to compile the webpage before deployment.  Upon loading, the Markdown files are automatically parsed and embedded into the page.
-
-This template supports LaTeX formula input. You can use `$...$` and `\(...\)` as delimiters for inline-math, or use `$$...$$` and `\[...\]` as delimiters for display-math. Macros such as `\ref{...}`, `\eqref{...}`, and `\begin{equation}...\end{equation}` are also supported. See [MathJax](https://docs.mathjax.org/en/latest/index.html) for more details.
-
-:milky_way: Demo: https://chderhjl.github.io/
-
-
-## Getting Start
-### 1. Fork this repository
-The repository name should be `<username>.github.io`, which will also be your website's URL.
-
-
-### 2. Edit page content
-
-(1) Go to the folder where you want to store your project, and clone the new repository:
 ```
-git clone https://github.com/<username>/<username>.github.io.git
-```
-The directory structure is as follows:
-
-```.
 .
-├── contents
+├── index.html          # Single-page site
 └── static
     ├── assets
-    │   └── img
-    ├── css
-    └── js
+    │   ├── favicon.ico
+    │   └── img/profile.jpg
+    └── css/main.css    # Styles
 ```
 
-(2) Modify the content of each section, which corresponds to `contents/*.md`.
+## Editing
 
-(3) Adjust the title, copyright information, and other text of the website in `contents/config.yml`
+- Update your photo: replace `static/assets/img/profile.jpg`.
+- Update content: edit `index.html` (About, Research, Publications, Awards, Contact sections).
+- Update contact links: `mailto:JialeiHe@chd.edu.cn` and `https://github.com/chderhjl`.
 
-(4) Replace background image and photo with new ones for your web pages in `static/assets/img/`
-
-(5) Push it: 
-```
-git commit -am 'init'
-git push
-```
-
-
-### 3. Enjoy
-
-Fire up a browser and go to `https://<username>.github.io`
-
-
+The site is pure HTML/CSS with no build step or external dependencies — push to `main` and GitHub Pages publishes it automatically.
 
 ## License
 
-Copyright Sen Li, 2023. Licensed under an MIT license. You can copy and mess with this template.
+MIT (derived from the [senli1073 academic homepage template](https://github.com/senli1073/senli1073.github.io)).
